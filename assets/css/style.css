@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Playfair, sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+
+ /* headings and logo */
+
+ h1, h2, h3, h4 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #000000;
+ }
+
+ #logo {
+    float: left;
+    font-size: 260%;
+ }
+
+ /* navigation links */
+
+ #navbar {
+    font-size: 135%;
+    letter-spacing: 4px;
+    background-image: url(../images/pexels-maria-lindsey-content-creator-1453713.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+ }
+ 
+#navbar, #logo {
+    line-height: 80px;
+}
+
+#navbar li {
+    float: right;
+    list-style-type: none;
+    margin-right: 35px;
+}
