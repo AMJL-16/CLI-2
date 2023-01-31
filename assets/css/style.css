@@ -105,12 +105,13 @@ body {
 /* footer */ 
 
 footer {
-    height: 120px;
+    height: 150px;
     background-color: burlywood;
 }
 footer > p {
     text-align: center;
     font-size: 115%;
+
 }
 .social-networks {
     text-align: center;
