@@ -71,7 +71,7 @@ body {
     height: 650px;
     width: 100%;
     background: url(' ../images/gastronomie.jpg') no-repeat center center;
-    clear: both;
+    clear: left;
     background-size: cover;
     background-position: center;
 }
@@ -80,26 +80,37 @@ body {
     font-size: 130%;
     font-family: Roboto, sans-serif;
     text-transform: uppercase; 
-    letter-spacing: 4px;
+    letter-spacing: 5px;
 
-    width: 300px;
-    height: 200px;
+    width: 250px;
+    height: 170px;
 
-    padding-top: 40px;
+    padding-top: 10px;
     padding-left: 10px;
 
-    background-color: rgba(228, 204, 204, 0.5);
-    bottom: 30px;
-    right: 150px;
+    background-color: rgba(128, 150, 156, 0.308);
+    bottom: 20px;
+    right: 90px;
 
     position: absolute;
+}
+
+/* quotes */
+
+#quotes, #quotes p {
+    text-align: center;
+    font-size: 1.4em;
 }
 
 /* footer */ 
 
 footer {
-    height: 150px;
-
+    height: 120px;
+    background-color: burlywood;
+}
+footer > p {
+    text-align: center;
+    font-size: 115%;
 }
 .social-networks {
     text-align: center;
@@ -111,8 +122,8 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 180%;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
     color: #000000;
 }
