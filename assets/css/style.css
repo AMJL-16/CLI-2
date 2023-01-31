@@ -14,7 +14,7 @@ body {
 
  /* headings and logo */
 
- h1, h2, h3, h4 {
+ h1, h2, h3 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -24,6 +24,7 @@ body {
  #logo {
     float: left;
     font-size: 260%;
+    margin-left: 40px;
  }
 
  /* navigation links */
@@ -40,7 +41,7 @@ body {
 #navbar li {
     float: right;
     list-style-type: none;
-    margin-right: 35px;
+    margin-right: 40px;
 }
 
 #navbar a {
@@ -106,7 +107,7 @@ body {
 
 footer {
     height: 150px;
-    background-color: burlywood;
+    background-color: rgb(222, 163, 135);
 }
 footer > p {
     text-align: center;
