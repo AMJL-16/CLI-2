@@ -100,7 +100,7 @@ body {
 }
 
 
-/* quotes */
+/* quotes section */
 
 #quotes, #quotes p {
     text-align: center;
@@ -147,4 +147,61 @@ footer > p {
 }
 #photos > img {
     width: 100%;
+}
+
+/* contact form */
+
+.form {
+    clear: left;
+    background: url('../images/apples.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.info-form {
+    margin: 125px 15% 0 0;
+    color: #fafafa;
+    background-color: rgba(39, 17, 17, 0.8);
+    max-width: 500px;
+    position: absolute;
+    left: 30%;
+    padding: 30px;
+}
+
+.form h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: #fafafa;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+textarea {
+    background-color: #fafafa;
+}
+
+.button {
+    margin-top: 10px;
+    border-radius: 2px;
+    padding: 8px 5px 8px 5px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #1bb380;
+    color: #000000;
+    display: block;
+}
+
+.button:hover {
+    color: #fafafa;
+}
+.reset:hover {
+    color: #fafafa;
 }
