@@ -107,6 +107,9 @@ body {
     font-size: 1.4em;
     background-color: #fff;
 }
+/* about page */
+
+
 
 /* footer */ 
 
@@ -170,7 +173,7 @@ footer > p {
 }
 
 .form h2 {
-    color: #fafafa;
+    color: lightgoldenrodyellow;
     margin-bottom: 15px;
 }
 
