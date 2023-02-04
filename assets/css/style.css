@@ -10,7 +10,7 @@ body {
     font-family: Playfair, sans-serif;
     font-weight: 400;
     color: #000000;
-    background-color: rgb(222, 163, 135, 0.8);
+    background-color: rgb(222, 163, 135);
 }
 
  /* headings and logo */
@@ -107,39 +107,30 @@ body {
     font-size: 1.4em;
     background-color: #fff;
 }
-/* about page */
 
-
-
-/* footer */ 
+/* footer */
 
 footer {
     height: 150px;
-    background-color: rgb(222, 163, 135);
-}
-footer > p {
-    text-align: center;
-    font-size: 115%;
-
-}
-
-
-.social-networks {
+    padding: 40px;
+    background: rgb(222, 163, 135);
+    position: relative;
+    bottom: 0;
     text-align: center;
 }
 
-.social-networks > li {
-    display: inline;
-
-}
-
-.social-networks i {
-    font-size: 180%;
-    margin: 1%;
-    padding: 2%;
+footer>a {
     color: #000000;
+    text-decoration: none;
+    font-size: 250%;
+    margin: 1%;
+    padding: 5%;
+    display: inline;
 }
-
+footer>p {
+    margin-top: 15px;
+    font-size: 120%;
+}
 /* gallery */
 
 #photos {
@@ -205,3 +196,17 @@ input[type=submit], input[type=reset] {
 input[type=submit]:hover, input[type=reset]:hover {
     background-color: lightgreen;
 }
+
+/* about page */
+
+#about {
+
+}
+.title {
+    padding: 150px;
+    text-align: center;
+    background-color: #fafafa;
+    color: #000000;
+
+}
+
