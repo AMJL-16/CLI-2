@@ -6,6 +6,11 @@
     border: none;
 }
 
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
 body {
     font-family: Playfair, sans-serif;
     font-weight: 400;
@@ -190,7 +195,7 @@ input[type=submit]:hover, input[type=reset]:hover {
 
 /* about page */
 
-article h3 {
+article h2, h3 {
     text-align: center;
 }
 
@@ -199,7 +204,21 @@ article {
     letter-spacing: 2px;
     font-family: Roboto, sans-serif;
     font-size: 1.50em;
-    font-weight: 600;
+    font-weight: 500;
     color: #181616;
 }
 
+/* media queries */
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px){
+    
+}
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+#navbar {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
