@@ -20,6 +20,9 @@
 ### - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 ###  -This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
 
+
+<img width="708" alt="Lightouse test" src="https://user-images.githubusercontent.com/116040510/217058533-0ce3ee20-be7f-40ea-8043-4833852911da.png">
+
 # Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
