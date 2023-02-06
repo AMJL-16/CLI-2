@@ -42,16 +42,22 @@
 
 ## The Gallery
 #### The Gallery will show the user with some stunning images related to the topic of the blog.
-####this will help the user to understand the topic of the page.
+#### this will help the user to understand the topic of the page.
 
 <img width="686" alt="gallery image" src="https://user-images.githubusercontent.com/116040510/217100928-d89cfc8f-489f-4c26-829a-c996c1d5d681.png">
 
 ## The Info page 
 #### This page will allow the user to get more information about Normandy, th culture, the food and maybe sking for a recipe or two.
-#### The user will be able ask to submit their full name and email add with some questions or message.
+#### The user will be asked to submit their full name, email and to write questions.
+#### The user will be able to reset before submiting is personal information.
 
 <img width="680" alt="info page " src="https://user-images.githubusercontent.com/116040510/217101850-910482b8-6df0-4f5c-a4cc-e247b66eed57.png">
 
+#### The user will be transfer to a validation page explaining that He/She will receive information in the next coming days. 
+<img width="703" alt="validation image" src="https://user-images.githubusercontent.com/116040510/217103314-479f9a2c-f11a-4e6c-81db-b3bbb8044083.png">
+
+<img width="691" alt="W3 validator image" src="https://user-images.githubusercontent.com/116040510/217104514-498c4202-9dcc-41fc-9b85-9da250fa67c1.png">
+<img width="695" alt="css validator image " src="https://user-images.githubusercontent.com/116040510/217104535-1f779e01-87f2-4c4c-b428-2cdf8a732ff5.png">
 
 <img width="708" alt="Lightouse test" src="https://user-images.githubusercontent.com/116040510/217058533-0ce3ee20-be7f-40ea-8043-4833852911da.png">
 
