@@ -26,6 +26,8 @@
 
 ## Quotes section
 #### - A little section with quotes that i like about food.
+<img width="683" alt="quotes image" src="https://user-images.githubusercontent.com/116040510/217099903-7ead2e0b-341d-4068-aa7d-572ca7e23393.png">
+
 
 ## The Footer 
 #### The footer section includes links to the relevant social media sites for Ma Tasty Normandie. The links will open to a new tab to allow easy navigation for the user to keep connected via social media.
