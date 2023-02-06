@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
 
 * {
-    margin: -1px;
+    margin: 0;
     padding: 0;
     border: none;
 }
@@ -18,7 +18,7 @@ body {
  h1, h2, h3 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 5px;
     color: #000000;
  }
 
@@ -32,7 +32,7 @@ body {
 
 #menu {
     font-size: 135%;
-    letter-spacing: 4px;
+    letter-spacing: 5px;
  }
  
 #menu, #logo {
@@ -109,7 +109,7 @@ body {
 /* footer */
 
 footer {
-    height: 100px;
+    height: 140px;
     margin-top: 80px;
     text-align: center;
 }
@@ -257,12 +257,22 @@ input[type=submit]:hover, input[type=reset]:hover {
 
  @media screen and (max-width: 450px) {
     #logo {
-        font-size: 140%;
+        font-size: 120%;
+        position: relative;
+    }
+
+    #menu {
+        font-size: 80%;
     }
 
     #menu li {
-        font-size: 75%;
-    }
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 15px;
+        line-height: 20px;
+        display: flex;
+        }
+ 
 
     #cover-text {
         font-size: 100%;
