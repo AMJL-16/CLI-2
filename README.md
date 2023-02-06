@@ -26,19 +26,32 @@
 
 ## Quotes section
 #### - A little section with quotes that i like about food.
+
 <img width="683" alt="quotes image" src="https://user-images.githubusercontent.com/116040510/217099903-7ead2e0b-341d-4068-aa7d-572ca7e23393.png">
 
 
 ## The Footer 
 #### The footer section includes links to the relevant social media sites for Ma Tasty Normandie. The links will open to a new tab to allow easy navigation for the user to keep connected via social media.
-<img width="708" alt="footer image" src="https://user-images.githubusercontent.com/116040510/217099434-005ba11f-a276-463a-92b2-cd4766cb0369.png">
 
-<img width="708" alt="footer image" src="https://user-images.githubusercontent.com/116040510/217098646-d0310b43-89ab-4abe-83da-3af1e7e9c4ed.png">
+<img width="708" alt="footer image" src="https://user-images.githubusercontent.com/116040510/217099434-005ba11f-a276-463a-92b2-cd4766cb0369.png">
 
 ## About page
 #### This page will allow the user to learn about the history and culture of food in Normandy.
-the page is layout like an article.
+
 <img width="686" alt="about page " src="https://user-images.githubusercontent.com/116040510/217097840-c50d884e-edbe-4ac1-9333-33fd0b59d078.png">
+
+## The Gallery
+#### The Gallery will show the user with some stunning images related to the topic of the blog.
+####this will help the user to understand the topic of the page.
+
+<img width="686" alt="gallery image" src="https://user-images.githubusercontent.com/116040510/217100928-d89cfc8f-489f-4c26-829a-c996c1d5d681.png">
+
+## The Info page 
+#### This page will allow the user to get more information about Normandy, th culture, the food and maybe sking for a recipe or two.
+#### The user will be able ask to submit their full name and email add with some questions or message.
+
+<img width="680" alt="info page " src="https://user-images.githubusercontent.com/116040510/217101850-910482b8-6df0-4f5c-a4cc-e247b66eed57.png">
+
 
 <img width="708" alt="Lightouse test" src="https://user-images.githubusercontent.com/116040510/217058533-0ce3ee20-be7f-40ea-8043-4833852911da.png">
 
