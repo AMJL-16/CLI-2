@@ -1,14 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
 
 * {
-    margin: 0;
+    margin: -1px;
     padding: 0;
     border: none;
-}
-
-body, html {
-    width: 100%;
-    height: 100%;
 }
 
 body {
@@ -29,32 +24,32 @@ body {
 
  #logo {
     float: left;
-    font-size: 310%;
-    margin-left: 40px;
+    font-size: 280%;
+    margin: 6px 0 0 25px;
  }
 
  /* navigation links */
 
- #navbar {
+#menu {
     font-size: 135%;
     letter-spacing: 4px;
  }
  
-#navbar, #logo {
-    line-height: 110px;
+#menu, #logo {
+    line-height: 100px;
 }
 
-#navbar li {
+#menu li {
     float: right;
     list-style-type: none;
     margin-right: 40px;
 }
 
-#navbar a {
+#menu a {
     text-decoration: none;
     color: inherit;
 }
-#navbar a:hover {
+#menu a:hover {
     border-bottom: 1px solid #000000;
 }
 .active {
@@ -71,7 +66,8 @@ body {
 }
 
 #cover-text, #cover-text h2, #cover-text h3 {
-    color: #000000;
+    color: #181616;
+    text-align: center;  
 }
 
 #hero-image {
@@ -88,19 +84,15 @@ body {
     font-family: Roboto, sans-serif;
     text-transform: uppercase; 
     letter-spacing: 5px; 
-    text-align: center;  
 
-    width: 450px;
+    width: 440px;
     height: 130px;
 
-    padding-top: 10px;
-    padding-left: 15px;
-    padding-bottom: 10px;
-    padding-right: 15px;
-
-    background-color: rgb(255, 228, 196, 0.6);
-    bottom: 30px;
-    right: 90px;
+    padding: 15px;
+    
+    background-color: rgb(255, 228, 196, 0.7);
+    bottom: 20px;
+    right: 130px;
 
     position: absolute;
 }
@@ -128,6 +120,21 @@ footer>a {
     margin: 1%;
     padding: 3%;
     display: inline;
+}
+
+/* about page */
+
+article h2, h3 {
+    text-align: center;
+}
+
+article {
+    padding: 150px 40px 5px 40px;
+    letter-spacing: 2px;
+    font-family: Roboto, sans-serif;
+    font-size: 1.50em;
+    font-weight: 500;
+    color: #181616;
 }
 
 /* gallery */
@@ -193,32 +200,81 @@ input[type=submit]:hover, input[type=reset]:hover {
     background-color: lightgreen;
 }
 
-/* about page */
-
-article h2, h3 {
-    text-align: center;
-}
-
-article {
-    padding: 150px 30px 5px 30px;
-    letter-spacing: 2px;
-    font-family: Roboto, sans-serif;
-    font-size: 1.50em;
-    font-weight: 500;
-    color: #181616;
-}
-
 /* media queries */
-/* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px){
-    
+
+/* screens size from 1075px wide and down */
+@media screen and (max-width: 1075px){
+    #logo {
+        font-size: 260%;
+        margin-left: 30px;
+    }
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 15px;
+        line-height: 20px;
+    }
+
+    #photos {
+        column-count: 3;
+
+    }
+
 }
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-#navbar {
-    clear: left;
-    float: left;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    line-height: 25px;
+/* screens size from 750px wide and down */
+
+@media screen and (max-width: 750px) {
+    #logo {
+        font-size: 200%;
+    }
+    #menu {
+        font-size: 100%;
+    }
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 15px;
+        line-height: 20px;
+    }
+
+    #cover-text {
+        font-size: 115%;
+        width: 340px;
+        height: 130px;
+        left: 35px;
+        bottom: 35px;
+        
+    }
+    #photos {
+        column-count: 2;
+    }
 }
+
+ /* screens size from 450px wide and down */
+
+ @media screen and (max-width: 450px) {
+    #logo {
+        font-size: 140%;
+    }
+
+    #menu li {
+        font-size: 75%;
+    }
+
+    #cover-text {
+        font-size: 100%;
+        width: 260px;
+        height: 150px;
+        left: 25px;
+        bottom: 45px;
+        } 
+
+        #quotes {
+            font-size: 1.05em;
+        }
+}
+
+
