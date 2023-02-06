@@ -27,6 +27,9 @@ body {
     font-size: 280%;
     margin: 6px 0 0 25px;
  }
+ #logo {
+    line-height: 100px;
+ }
 
  /* navigation links */
 
@@ -35,8 +38,8 @@ body {
     letter-spacing: 5px;
  }
  
-#menu, #logo {
-    line-height: 100px;
+#menu {
+    line-height: 120px;
 }
 
 #menu li {
@@ -165,8 +168,8 @@ article {
     background-color: rgba(39, 17, 17, 0.8);
     max-width: 500px;
     position: absolute;
-    left: 30%;
-    padding: 30px;
+    left: 25%;
+    padding: 15px;
 }
 
 .form h2 {
@@ -212,7 +215,7 @@ input[type=submit]:hover, input[type=reset]:hover {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 25px;
         margin-bottom: 15px;
         line-height: 20px;
     }
@@ -227,7 +230,7 @@ input[type=submit]:hover, input[type=reset]:hover {
 
 @media screen and (max-width: 750px) {
     #logo {
-        font-size: 200%;
+        font-size: 180%;
     }
     #menu {
         font-size: 100%;
@@ -235,7 +238,7 @@ input[type=submit]:hover, input[type=reset]:hover {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 25px;
         margin-bottom: 15px;
         line-height: 20px;
     }
@@ -258,21 +261,21 @@ input[type=submit]:hover, input[type=reset]:hover {
  @media screen and (max-width: 450px) {
     #logo {
         font-size: 120%;
-        position: relative;
     }
-
+    #menu li{
+        font-size: 95%;
+    }
     #menu {
-        font-size: 80%;
+        height: 50px;
     }
 
     #menu li {
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 15px;
-        line-height: 20px;
-        display: flex;
+        display: table-cell;
+            height: 100px;
+            list-style-type: none;
+            margin: 10px;
+            vertical-align: middle;
         }
- 
 
     #cover-text {
         font-size: 100%;
@@ -286,5 +289,32 @@ input[type=submit]:hover, input[type=reset]:hover {
             font-size: 1.05em;
         }
 }
+/* screen size from 3365px wide and down */
 
+@media screen and (max-width:365px) {
+    #logo {
+        font-size: 70%;
+    }
+    #menu li{
+        font-size: 50%;
+    }
+    #menu li {
+        display: table-cell;
+            height: 100px;
+            list-style-type: none;
+            margin: 5px;
+            vertical-align: middle;
+        }
+        #cover-text {
+            font-size: 90%;
+            width: 210px;
+            height: 150px;
+            left: 20px;
+            bottom: 45px;
+            } 
+    
+            #quotes {
+                font-size: 0.9em;
+            }
+}
 
