@@ -47,19 +47,31 @@
 <img width="686" alt="gallery image" src="https://user-images.githubusercontent.com/116040510/217100928-d89cfc8f-489f-4c26-829a-c996c1d5d681.png">
 
 ## The Info page 
-#### This page will allow the user to get more information about Normandy, th culture, the food and maybe sking for a recipe or two.
-#### The user will be asked to submit their full name, email and to write questions.
-#### The user will be able to reset before submiting is personal information.
+#### This page will allow the user to get more information about Normandy, the culture, the food and maybe asking for a recipe or two.
+#### - The user will be asked to submit their full name, email and to write questions.
+#### - The user will be able to reset before submiting is personal information.
 
 <img width="680" alt="info page " src="https://user-images.githubusercontent.com/116040510/217101850-910482b8-6df0-4f5c-a4cc-e247b66eed57.png">
 
-#### The user will be transfer to a validation page explaining that He/She will receive information in the next coming days. 
+#### Then a thank you page will open explaining that He/She will receive information in the next coming days. 
 <img width="703" alt="validation image" src="https://user-images.githubusercontent.com/116040510/217103314-479f9a2c-f11a-4e6c-81db-b3bbb8044083.png">
 
+## Reference 
+### For most of the website I used a similar layout found in LOVE RUNNING walkthrough project.
+
+## Features left to implement
+### I would like to add a page with recipes in form of clickable image card that will link you to a video with a step by step recipe.
+I would like to add a food tour guide with a choice of transportation (Bicycle, Motorbike, Bus, Horses..).
+with different length of tour : 1, 2, 3, 4 etc..
+
+# Testing
+### The site is reponsive enough, maybe not 100% on some smartphone which the problem  will have to be adressed in the future update of the site.
+I put the site through W3C validator and CSS validator
 <img width="691" alt="W3 validator image" src="https://user-images.githubusercontent.com/116040510/217104514-498c4202-9dcc-41fc-9b85-9da250fa67c1.png">
 <img width="695" alt="css validator image " src="https://user-images.githubusercontent.com/116040510/217104535-1f779e01-87f2-4c4c-b428-2cdf8a732ff5.png">
 
 <img width="708" alt="Lightouse test" src="https://user-images.githubusercontent.com/116040510/217058533-0ce3ee20-be7f-40ea-8043-4833852911da.png">
+<img width="704" alt="lightouse test smatphone" src="https://user-images.githubusercontent.com/116040510/217111405-21a0982d-370d-40cc-81b4-aca89a28e2e2.png">
 
 # Deployment
 
