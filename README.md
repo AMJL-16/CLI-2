@@ -27,6 +27,8 @@
 ### - the homepage includes a very attracting image with text overlay recalling the name of the blog and line of text. Which will attract the user to want to know more.
 <img width="709" alt="hero-image" src="https://user-images.githubusercontent.com/116040510/217094716-f3d759af-49da-4cb5-9a44-fd0caa52ec51.png">
 
+## Quotes section
+### - A little section with quotes that i like about food.
 
 <img width="708" alt="Lightouse test" src="https://user-images.githubusercontent.com/116040510/217058533-0ce3ee20-be7f-40ea-8043-4833852911da.png">
 
