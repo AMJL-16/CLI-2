@@ -1,7 +1,8 @@
 # Ma Tasty Normandie
 
 ### A Food blog about specialities and history of Normandy, France. Users will be able to  discover specialities, culture and a history from the beautiful area of Normandy.
-<img width="692" alt="Am I Responsive" src="https://user-images.githubusercontent.com/116040510/217046595-a690151b-b20f-4321-ba4b-75136697c214.png">
+
+![Am I Responsive](https://user-images.githubusercontent.com/116040510/217050118-337ec7f8-aa77-40fc-aa02-bc89b8f8cfbe.png)
 
 
 
