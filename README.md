@@ -60,17 +60,21 @@
 ### For most of the website I used a similar layout found in LOVE RUNNING walkthrough project.
 
 ## Features left to implement
-### I would like to add a page with recipes in form of clickable image card that will link you to a video with a step by step recipe.
+#### I would like to add a page with recipes in form of clickable image card that will link you to a video with a step by step recipe.
 I would like to add a food tour guide with a choice of transportation (Bicycle, Motorbike, Bus, Horses..).
 with different length of tour : 1, 2, 3, 4 etc..
 
 # Testing
-### The site is reponsive enough, maybe not 100% on some smartphone which the problem  will have to be adressed in the future update of the site.
-I put the site through W3C validator and CSS validator
+#### The site is reponsive enough, maybe not 100% on some smartphone which the problem will have to be adressed in the future updates of the site. I add a problem with max-width:450px wide and down screen but the problem got resolved at the end.
+Except that no errors were found when passing through the official validators.
+## HTML with W3C VALIDATOR 
 <img width="691" alt="W3 validator image" src="https://user-images.githubusercontent.com/116040510/217104514-498c4202-9dcc-41fc-9b85-9da250fa67c1.png">
+## CSS with W3C CSS VALIDATOR
 <img width="695" alt="css validator image " src="https://user-images.githubusercontent.com/116040510/217104535-1f779e01-87f2-4c4c-b428-2cdf8a732ff5.png">
-
+## Also used lightouse to tes th responsiveness of differnt screens size.
+## - For desktop
 <img width="708" alt="Lightouse test" src="https://user-images.githubusercontent.com/116040510/217058533-0ce3ee20-be7f-40ea-8043-4833852911da.png">
+## - For Mobile
 <img width="704" alt="lightouse test smatphone" src="https://user-images.githubusercontent.com/116040510/217111405-21a0982d-370d-40cc-81b4-aca89a28e2e2.png">
 
 # Deployment
