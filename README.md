@@ -7,6 +7,8 @@
 
 
 ## [View the live project here!](https://amjl-16.github.io/Ma-Tasty-Normandie/)
+
+
 # Features
 #### I have choosen this topic as I am from Normandy so I wanted to share my food culture with the general public and I love this part of France.There is an about page with food and history.
 #### This blog is for people who wants to discover the food of Normandy.
@@ -67,7 +69,7 @@ with different length of tour : 1, 2, 3, 4 etc..
 # Testing
 #### The site is reponsive enough, maybe not 100% on some smartphone which the problem will have to be adressed in the future updates of the site. I add a problem with max-width:450px wide and down screen but the problem got resolved at the end.
 
-## [Am I responsive] (https://ui.dev/amiresponsive?url=https://amjl-16.github.io/Ma-Tasty-Normandie/)
+## [Am I responsive](https://ui.dev/amiresponsive?url=https://amjl-16.github.io/Ma-Tasty-Normandie/)
 
 No errors were found when passing through the official validators.
 ## HTML with W3C VALIDATOR 
@@ -93,6 +95,8 @@ Once the master branch has been selected, the page will be automatically refresh
 
 # Credit
 ## Content
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- the font was taken from [Google Fonts]https://fonts.google.com/
 ### The content for the About page was taken from 
 - Wikipedia https://en.wikipedia.org/wiki/Normandy
 - www.britannica.com/place/Normandy
