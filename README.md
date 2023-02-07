@@ -90,6 +90,8 @@ The live link can be found here -(https://amjl-16.github.io/Ma-Tasty-Normandie/)
 
 # Credit
 ## Content
+- The content for the About page was taken from Wikipedia https://en.wikipedia.org/wiki/Normandy
+- and  www.britannica.com/place/Normandy and www.frenchentree.com/living-in-france
 - I used Love Running walkthrough project by Code Institute for the layout and style of the blog. 
 - For a better understanding and how to get my head around of media queries I watched videos on youtube from 
       - Cem Egi Media
