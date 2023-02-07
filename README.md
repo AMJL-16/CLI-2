@@ -10,7 +10,10 @@
 
 
 # Design
-
+## Fonts
+### font-family
+- Playfair, sans-serif; 
+- Roboto, sans-serif;
 ## Color
 - for the background color : rgb(255, 228, 196);
 - for most of the text : #000000;
