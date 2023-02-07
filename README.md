@@ -20,6 +20,11 @@
 - for the form I used : - #fafafa; 
                         - rgba(39, 17, 17, 0.8);
                         - lightgoldenrodyellow;
+
+# Languages 
+- HTML
+- CSS
+
 ## Existing Features
 #### - Navigation Bar
 
