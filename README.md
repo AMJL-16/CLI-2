@@ -66,7 +66,8 @@ with different length of tour : 1, 2, 3, 4 etc..
 
 # Testing
 #### The site is reponsive enough, maybe not 100% on some smartphone which the problem will have to be adressed in the future updates of the site. I add a problem with max-width:450px wide and down screen but the problem got resolved at the end.
-Except that no errors were found when passing through the official validators.
+## [Am I responsive](https://ui.dev/amiresponsive?url=https://amjl-16.github.io/Ma-Tasty-Normandie/)
+No errors were found when passing through the official validators.
 ## HTML with W3C VALIDATOR 
 <img width="691" alt="W3 validator image" src="https://user-images.githubusercontent.com/116040510/217104514-498c4202-9dcc-41fc-9b85-9da250fa67c1.png">
 CSS with W3C CSS VALIDATOR
@@ -86,19 +87,28 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here -(https://amjl-16.github.io/Ma-Tasty-Normandie/)
+## The live link can be found here -(https://amjl-16.github.io/Ma-Tasty-Normandie/)
 
 # Credit
 ## Content
-- The content for the About page was taken from Wikipedia https://en.wikipedia.org/wiki/Normandy
-- and  www.britannica.com/place/Normandy and www.frenchentree.com/living-in-france
+### The content for the About page was taken from 
+- Wikipedia https://en.wikipedia.org/wiki/Normandy
+- www.britannica.com/place/Normandy
+- www.frenchentree.com/living-in-france
 - I used Love Running walkthrough project by Code Institute for the layout and style of the blog. 
 - For a better understanding and how to get my head around of media queries I watched videos on youtube from 
       - Cem Egi Media
       - Kevin Powell
+- I used [W3 school ](https://www.w3schools.com/) when needed.
 - The Code Institute provided on slack some useful links and template that i used.
 - I also looked at other student project to get some inspiration.
 - The README.md layout is from Love running and from the example provided by my mentor.
+
+## Media
+- photos and images are from 
+- https://www.pexels.com/
+- [https://www.pexels.com/](https://www.istockphoto.com/)
+- 
 
 
   
