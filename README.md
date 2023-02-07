@@ -76,7 +76,7 @@
 <img width="703" alt="validation image" src="https://user-images.githubusercontent.com/116040510/217103314-479f9a2c-f11a-4e6c-81db-b3bbb8044083.png">
 
 ## Reference 
-### For most of the website I used a similar layout found in LOVE RUNNING walkthrough project.
+### I used layout found in LOVE RUNNING walkthrough project by Code Institute.
 
 ## Features left to implement
 #### I would like to add a page with recipes in form of clickable image card that will link you to a video with a step by step recipe.
@@ -122,10 +122,10 @@ No errors were found when passing through the official validators.
 
 ### - I used Love Running walkthrough project by Code Institute for the layout and style of the blog. 
 ### - For a better understanding and how to get my head around of media queries I watched videos on youtube.
-### - I used [W3 school ](https://www.w3schools.com/).
-### - I used [stackoverflow](https://stackoverflow.com/)
+### - I used some code from [W3 school ](https://www.w3schools.com/).
+### - I used some code from  [stackoverflow](https://stackoverflow.com/)
 ### - The Code Institute provided on slack some useful links and template that i used.
-### - I also looked at other student project to get some inspiration.
+### - I also looked at other student project to get some inspiration and learned from it.
 ### - The README.md layout is from Love running and from the example provided by my mentor.
 
 ## Media
