@@ -9,11 +9,9 @@
 ## [View the live project here!](https://amjl-16.github.io/Ma-Tasty-Normandie/)
 
 
-# Features
-#### I have choosen this topic as I am from Normandy so I wanted to share my food culture with the general public and I love this part of France.There is an about page with food and history.
-#### This blog is for people who wants to discover the food of Normandy.
+# Design
 
-# Color
+## Color
 - for the background color : rgb(255, 228, 196);
 - for most of the text : #000000;
 - for the cover-text : #181616;
@@ -21,15 +19,19 @@
                         - rgba(39, 17, 17, 0.8);
                         - lightgoldenrodyellow;
 
-# Languages 
+## Languages 
 - HTML
 - CSS
 
-## Existing Features
-#### - Navigation Bar
+# Features
+#### I have choosen this topic as I am from Normandy so I wanted to share my food culture with the general public and I love this part of France.There is an about page with food and history.
+#### This blog is for people who wants to discover the food of Normandy.
 
-#### - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, About, Gallery and Info page and is identical in each page to allow for easy navigation.
-####  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
+# Existing Features
+### Navigation Bar
+
+####  Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, About, Gallery and Info page and is identical in each page to allow for easy navigation.
+####  This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
 <img width="710" alt="navbar image" src="https://user-images.githubusercontent.com/116040510/217059324-2c7c1f5f-14f2-4a34-97a5-68ddd5307e59.png">
 
 
@@ -84,17 +86,17 @@ with different length of tour : 1, 2, 3, 4 etc..
 ## [Am I responsive](https://ui.dev/amiresponsive?url=https://amjl-16.github.io/Ma-Tasty-Normandie/)
 
 No errors were found when passing through the official validators.
-## HTML with W3C VALIDATOR 
+##  HTML with W3C VALIDATOR 
 <img width="691" alt="W3 validator image" src="https://user-images.githubusercontent.com/116040510/217104514-498c4202-9dcc-41fc-9b85-9da250fa67c1.png">
 ## CSS with W3C CSS VALIDATOR
 <img width="695" alt="css validator image " src="https://user-images.githubusercontent.com/116040510/217104535-1f779e01-87f2-4c4c-b428-2cdf8a732ff5.png">
 
-## - Also used lightouse to test the website.
+##  Also used lightouse to test the website.
 
-## For desktop
+##  For desktop
 <img width="708" alt="Lightouse test" src="https://user-images.githubusercontent.com/116040510/217058533-0ce3ee20-be7f-40ea-8043-4833852911da.png">
 
-## For Mobile
+##  For Mobile
 <img width="704" alt="lightouse test smatphone" src="https://user-images.githubusercontent.com/116040510/217111405-21a0982d-370d-40cc-81b4-aca89a28e2e2.png">
 
 
@@ -107,7 +109,7 @@ No errors were found when passing through the official validators.
 ### [Website](https://amjl-16.github.io/Ma-Tasty-Normandie/)
 
 # Credit
-### - Content
+###  Content
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - the font was taken from [Google Fonts](https://fonts.google.com/)
 ### The content for the About page was taken from 
@@ -116,9 +118,7 @@ No errors were found when passing through the official validators.
 - [frenchentree](www.frenchentree.com/living-in-france)
 
 ### - I used Love Running walkthrough project by Code Institute for the layout and style of the blog. 
-### - For a better understanding and how to get my head around of media queries I watched videos on youtube from 
-      - Cem Egi Media
-      - Kevin Powell
+### - For a better understanding and how to get my head around of media queries I watched videos on youtube.
 ### - I used [W3 school ](https://www.w3schools.com/).
 ### - I used [stackoverflow](https://stackoverflow.com/)
 ### - The Code Institute provided on slack some useful links and template that i used.
@@ -132,4 +132,7 @@ No errors were found when passing through the official validators.
 - [hero-image](https://en.normandie-tourisme.fr/wp-content/uploads/sites/3/2020/02/gastronomie-normande-cidre-fromage-patrick-forget-sagaphoto.jpg)
 - [images](https://en.normandie-tourisme.fr/)
 
-  
+  # Acknowledgements
+  - Thank you to the slack community for sharing useful content and be so helpful.
+  - Thank you to my mentor Adegbenga Adeye.
+ 
