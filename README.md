@@ -66,7 +66,9 @@ with different length of tour : 1, 2, 3, 4 etc..
 
 # Testing
 #### The site is reponsive enough, maybe not 100% on some smartphone which the problem will have to be adressed in the future updates of the site. I add a problem with max-width:450px wide and down screen but the problem got resolved at the end.
-## [Am I responsive](https://ui.dev/amiresponsive?url=https://amjl-16.github.io/Ma-Tasty-Normandie/)
+
+## [Am I responsive] (https://ui.dev/amiresponsive?url=https://amjl-16.github.io/Ma-Tasty-Normandie/)
+
 No errors were found when passing through the official validators.
 ## HTML with W3C VALIDATOR 
 <img width="691" alt="W3 validator image" src="https://user-images.githubusercontent.com/116040510/217104514-498c4202-9dcc-41fc-9b85-9da250fa67c1.png">
