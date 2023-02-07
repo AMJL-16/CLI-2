@@ -12,8 +12,14 @@
 # Features
 #### I have choosen this topic as I am from Normandy so I wanted to share my food culture with the general public and I love this part of France.There is an about page with food and history.
 #### This blog is for people who wants to discover the food of Normandy.
-#color
-- for the background
+
+# Color
+- for the background color : rgb(255, 228, 196);
+- for most of the text : #000000;
+- for the cover-text : #181616;
+- for the form I used : - #fafafa; 
+                        - rgba(39, 17, 17, 0.8);
+                        - lightgoldenrodyellow;
 ## Existing Features
 #### - Navigation Bar
 
